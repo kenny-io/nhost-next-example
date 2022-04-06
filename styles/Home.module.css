@@ -11,6 +11,33 @@
   justify-content: center;
   align-items: center;
 }
+.form {
+  margin: 16px;
+}
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #0070f3;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 1rem;
+  width: 20%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin-bottom: 1rem 0;
+}
+.input {
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14pt;
+}
 
 .footer {
   display: flex;
